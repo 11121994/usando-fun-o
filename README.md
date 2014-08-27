@@ -1,16 +1,17 @@
-usando-fun-o
-============
 
 #include <iostream>
 #include<cstdlib>
 using namespace std;
 
 int subtracao(int a, int b)
+
 {
 	int r;
 	r=a-b;
-	return r;		
+	return r;
+	
 }
+
 
 int main()
 {
